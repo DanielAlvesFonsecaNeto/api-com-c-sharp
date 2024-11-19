@@ -18,3 +18,8 @@
     dotnet ef migrations add init
 #para subir as migration pro banco
     dotnet ef database update
+
+
+
+    playlist do youtybe que to vendo : https://www.youtube.com/watch?v=qBTe6uHJS_Y&list=PL82C6-O4XrHfrGOCPmKmwTO7M0avXyQKc&index=1
+    "ASP.NET Core Web API .NET 8 2024 -1. Create Project + Install"
